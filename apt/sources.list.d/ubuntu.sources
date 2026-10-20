@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://ubuntu-mirror-1-deb.ar.cloud.ru
+Suites: focal focal-updates focal-backports focal-security
+Components: main restricted universe multiverse
+Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
